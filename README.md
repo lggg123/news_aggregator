@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Decentralized News Aggregator
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project entails a FunctionsConsumer.sol smart contract that aggregates news and we will use a frontend to display it.
 
 Try running some of the following tasks:
 
